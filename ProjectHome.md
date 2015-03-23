@@ -1,0 +1,1 @@
+It should helps user to identify what car information would be useful to women.User should help them decide which car they should buy, what kind of repair they should make, if they should lease or get a loan, etc
